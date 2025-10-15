@@ -17,5 +17,3 @@ Une application simple de notation par étoiles, développée avec **HTML**, **C
 - **JavaScript**
 - **Font Awesome** (pour les icônes d'étoiles)
 
-## 📁 Structure des fichiers
-
